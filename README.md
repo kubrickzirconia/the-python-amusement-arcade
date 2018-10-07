@@ -12,7 +12,7 @@ GREETINGS FROM THE AUTOMATED FORTUNE TELLING MACHINE
 Inspired by the original fortune telling machines, as well as other classic prediction games like the Lucky Eight Ball. Talking Head generates a fortune from a set of lists - revealing to the player their lucky colour, life opportunities, and symbols to look out for going forward. Uploaded 21/07/2018.
 
 ## crazy-mad-quiz
-REMEMBER WHEN FOOTBALL WAS COMING HOME? TEST YOURSELF.
+REMEMBER WHEN FOOTBALL WAS COMING HOME? TEST YOURSELF
 
 Crazy Mad Quiz is a question and answer program, where the player has 3 lives with which to answer 10 questions about the 2018 world cup. Each time the player answers a question incorrectly, they lose a life. They must answer all ten questions and have at least one life left at the end of the game in order to win. Inspired by the automated quiz machines found in old fashioned pubs. Uploaded 07/10/2018.
 
