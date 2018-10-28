@@ -20,5 +20,5 @@ Crazy Mad Quiz is a question and answer program, where the player has 3 lives wi
 
 CHAPTER ONE: THE FIRST 24 HOURS
 
-Zombie Bullet Arcade is a choice based RPG where the player must attempt to survive amidst a zombie apocalypse. The player begins the game with a number of bullets and must make their way through the game without using up all of their bullets. Some decisions have an impact on events later in the game, most decisions cost the player valuable bullets, and a few decisions will result in the player's immediate death. Uploaded
+Zombie Bullet Arcade is a choice based RPG where the player must attempt to survive amidst a zombie apocalypse. The player begins the game with a number of bullets and must make their way through the game without using up all of their bullets. Some decisions have an impact on events later in the game, most decisions cost the player valuable bullets, and a few decisions will result in the player's immediate death. Uploaded 25/10/2018.
 
