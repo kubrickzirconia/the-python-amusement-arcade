@@ -16,5 +16,9 @@ REMEMBER WHEN FOOTBALL WAS COMING HOME? TEST YOURSELF
 
 Crazy Mad Quiz is a question and answer program, where the player has 3 lives with which to answer 10 questions about the 2018 world cup. Each time the player answers a question incorrectly, they lose a life. They must answer all ten questions and have at least one life left at the end of the game in order to win. Inspired by the automated quiz machines found in old fashioned pubs. Uploaded 07/10/2018.
 
+## zombie-bullet-arcade
 
+CHAPTER ONE: THE FIRST 24 HOURS
+
+Zombie Bullet Arcade is a choice based RPG where the player must attempt to survive amidst a zombie apocalypse. The player begins the game with a number of bullets and must make their way through the game without using up all of their bullets. Some decisions have an impact on events later in the game, most decisions cost the player valuable bullets, and a few decisions will result in the player's immediate death. Uploaded
 
