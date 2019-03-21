@@ -22,3 +22,7 @@ CHAPTER ONE: THE FIRST 24 HOURS
 
 Zombie Bullet Arcade is a choice based RPG where the player must attempt to survive amidst a zombie apocalypse. The player begins the game with a number of bullets and must make their way through the game without using up all of their bullets. Some decisions have an impact on events later in the game, most decisions cost the player valuable bullets, and a few decisions will result in the player's immediate death. Uploaded 25/10/2018.
 
+## weighted-bandit
+ONE CHANCE, ONE SPIN, ONE WIN --- CAN YOU FIND THE DIAMONDS?
+
+This simple fruit machine randomly selects 3 objects from a list and the player is rewarded according to how many matches are generated. If all three objects match, the code prints that the player has won £10. If two objects match, the code prints that the player has won £5. The diamond symbol is rare. If the player scores 3 diamonds, a special jackpot message is printed! Uploaded 21/03/2018.
