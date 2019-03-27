@@ -34,5 +34,5 @@ A single roll bets version of the popular dice game "craps", where the players b
 ## loaded-snake-eyes
 UMMM... TOTALLY LEGITIMATE DICE GAME...
 
-A single roll bets version of the popular dice game "craps", where the players bet on the outcome of a double dice roll. In this version, the player puts in a bet and wins money. Their winners pot accumulates over the turns the player takes, but if the player loses any bets, they lose the game and all the money. In this special edition, the dice are loaded - snake eyes is the most probable outcome.
+A single roll bets version of the popular dice game "craps", where the players bet on the outcome of a double dice roll. In this version, the player puts in a bet and wins money. Their winners pot accumulates over the turns the player takes, but if the player loses any bets, they lose the game and all the money. In this special edition, the dice are loaded - snake eyes is the most probable outcome. Uploaded 27/03/2019.
 
