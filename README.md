@@ -24,12 +24,12 @@ Zombie Bullet Arcade is a choice based RPG where the player must attempt to surv
 ## weighted-bandit
 ONE CHANCE, ONE SPIN, ONE WIN --- CAN YOU FIND THE DIAMONDS?
 
-This simple fruit machine randomly selects 3 objects from a list and the player is rewarded according to how many matches are generated. If all three objects match, the code prints that the player has won £10. If two objects match, the code prints that the player has won £5. The diamond symbol is rare. If the player scores 3 diamonds, a special jackpot message is printed! Uploaded 21/03/2018.
+This simple fruit machine randomly selects 3 objects from a list and the player is rewarded according to how many matches are generated. If all three objects match, the code prints that the player has won £10. If two objects match, the code prints that the player has won £5. The diamond symbol is rare. If the player scores 3 diamonds, a special jackpot message is printed! Uploaded 21/03/2019.
 
 ## snake-eyes
 LET IT ROLL
 
-A single roll bets version of the popular dice game "craps", where the players bet on the outcome of a double dice roll. In this version, the player puts in a bet and wins money. Their winners pot accumulates over the turns the player takes, but if the player loses any bets, they lose the game and all the money.
+A single roll bets version of the popular dice game "craps", where the players bet on the outcome of a double dice roll. In this version, the player puts in a bet and wins money. Their winners pot accumulates over the turns the player takes, but if the player loses any bets, they lose the game and all the money. Uploaded 27/03/2019.
 
 ## loaded-snake-eyes
 UMMM... TOTALLY LEGITIMATE DICE GAME...
